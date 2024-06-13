@@ -33,7 +33,10 @@
  - Lahotic
  - Area
  - Dubblye
- - Celti
+ - Celtic
+ - Sinistrrr (aka Adi
+ - 
+	 - 
 
  
  
@@ -45,5 +48,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExODc1MDQ3LC05NjUzOTAxNTddfQ==
+eyJoaXN0b3J5IjpbLTEwNjk3Nzc2MjAsLTk2NTM5MDE1N119
 -->
