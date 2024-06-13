@@ -34,9 +34,11 @@
  - Area
  - Dubblye
  - Celtic
- - Sinistrrr (aka Adi
+ - Sinistrrr (aka AdInfinitium, wireframe)
+ - NoNoobsAllowed
  - 
-	 - 
+ - 
+	
 
  
  
@@ -48,5 +50,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk3Nzc2MjAsLTk2NTM5MDE1N119
+eyJoaXN0b3J5IjpbLTE4NjU2NDE3MTUsLTk2NTM5MDE1N119
 -->
