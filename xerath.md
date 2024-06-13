@@ -1,4 +1,7 @@
-# Teams: Xerath Millennium
+# Teams: Xerath
+
+ - Full Name: Xerath Millennium
+
 ## Members
 **Current:**
 
@@ -19,5 +22,5 @@
  - to be continued
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MTI2NSwtOTY1MzkwMTU3XX0=
+eyJoaXN0b3J5IjpbLTIwMjgxMzI1OTIsLTk2NTM5MDE1N119
 -->
