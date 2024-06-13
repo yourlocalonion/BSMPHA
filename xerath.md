@@ -20,6 +20,8 @@
  - uberlord02 (uberlord02)
  - BradyCoinGuy1 (bradybeeguy)
  - OnionyOnion (yourlocalonion)
+ - Mike_Moss (idk his discord username)
+
  
  *names below im not 100% sure of*[^1]
  **Former**
@@ -37,7 +39,7 @@
  - Sinistrrr (aka AdInfinitium, wireframe)
  - NoNoobsAllowed
  - Ninja_Power[^2]
- - 
+
 	
 
  
@@ -50,5 +52,5 @@
 [^2]: not sure if it is ninja power since lukee only said "ninja"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMzI1ODkxLC05NjUzOTAxNTddfQ==
+eyJoaXN0b3J5IjpbLTIwNjQwNzk4NzcsLTk2NTM5MDE1N119
 -->
