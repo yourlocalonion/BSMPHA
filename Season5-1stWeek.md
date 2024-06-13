@@ -1,7 +1,7 @@
-# Season 5 - 1st Week
+# Season 5
 ## Teams
 (taken from */team leaderboard*)
-> info missing
+> **info missing!**
 - meow
 - Rose
 - nothin (noteamheresmh)
@@ -13,10 +13,10 @@
 - Rover
 ## Events
 ### 13/6/2024
-- Server Opened, <span style="color:red">Season 5 starts.</span>
+- Server Opened, Season 5 starts.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoibWVybWFpZDpcbiAgZW5hYmxlZDogdH
 J1ZVxudGl0bGU6IEJTTVBIQS1TNS0xV1xuYXV0aG9yOiBvbmlv
-blxuIiwiaGlzdG9yeSI6WzEwMzYyMzc5NzEsODUwMzQ4NTAsOD
+blxuIiwiaGlzdG9yeSI6Wy01NDAxNzUyMjAsODUwMzQ4NTAsOD
 c5NTY4ODYsLTk1NzY4NzkwNSwxNDk1OTgwNTQxXX0=
 -->
