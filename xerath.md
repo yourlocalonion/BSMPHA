@@ -1,6 +1,10 @@
 # Teams: Xerath
 
  - Full Name: Xerath Millennium
+ - Previous Names: 
+	 - BSE (Basement Sword Empire)
+	 - HBSE
+ 
 
 ## Members
 **Current:**
@@ -22,5 +26,5 @@
  - to be continued
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgxMzI1OTIsLTk2NTM5MDE1N119
+eyJoaXN0b3J5IjpbLTEwNTgyODIxLC05NjUzOTAxNTddfQ==
 -->
