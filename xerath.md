@@ -3,7 +3,8 @@
  - Full Name: Xerath Millennium
  - Previous Names: 
 	 - BSE (Basement Sword Empire)
-	 - HBSE
+	 - HBSE (Holy Basement Sword Empire
+	 - 
  
 
 ## Members
@@ -26,5 +27,5 @@
  - to be continued
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgyODIxLC05NjUzOTAxNTddfQ==
+eyJoaXN0b3J5IjpbLTE0MjM4NjU3NDAsLTk2NTM5MDE1N119
 -->
