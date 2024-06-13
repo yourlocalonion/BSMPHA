@@ -3,8 +3,9 @@
  - Full Name: Xerath Millennium
  - Previous Names: 
 	 - BSE (Basement Sword Empire)
-	 - HBSE (Holy Basement Sword Empire
-	 - 
+	 - HBSE (Holy Basement Sword Empire)
+	 - Takeda 
+	 - Basement Cult
  
 
 ## Members
@@ -16,16 +17,17 @@
  - LukeePooh (lukeepooh)
  - vip6D (vip.l)
  - MrDudeFaceInUse (mrdudeface)
- - uberlord02 
+ - uberlord02 (uberlord02)
  - BradyCoinGuy1 (bradybeeguy)
  - OnionyOnion (yourlocalonion)
  
- *i dont have 100% certainty that this is all XM members*
+ *names below im not 100% sure *
+ 
  
  ## Other Team Relations
  
  - to be continued
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM4NjU3NDAsLTk2NTM5MDE1N119
+eyJoaXN0b3J5IjpbMTM2MzA4MTc5MSwtOTY1MzkwMTU3XX0=
 -->
