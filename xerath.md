@@ -25,6 +25,8 @@
  **Former**
  
  - SaberSift
+ - XCyber
+ - JayLAQ[^2]
 
  
  
@@ -33,6 +35,8 @@
  - to be continued
 
 [^1]: names are from XM server's #history channel 
+[^2]: lukee is not 100% sure
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzI2NTg1NywtOTY1MzkwMTU3XX0=
+eyJoaXN0b3J5IjpbMTM5NDc2MjIyOCwtOTY1MzkwMTU3XX0=
 -->
