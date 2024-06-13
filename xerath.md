@@ -36,7 +36,7 @@
  - Celtic
  - Sinistrrr (aka AdInfinitium, wireframe)
  - NoNoobsAllowed
- - 
+ - Ninja_Power[^2]
  - 
 	
 
@@ -47,8 +47,8 @@
  - to be continued
 
 [^1]: names are from XM server's #history channel
-
+[^2]: not sure if it is ninja power since lukee only said "ninja"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU2NDE3MTUsLTk2NTM5MDE1N119
+eyJoaXN0b3J5IjpbNDIwMzI1ODkxLC05NjUzOTAxNTddfQ==
 -->
