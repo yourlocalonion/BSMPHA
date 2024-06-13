@@ -24,10 +24,16 @@
  *names below im not 100% sure of*[^1]
  **Former**
  
- - SaberSift (left after li
- - XCyber
+ - SaberSift
+ - Xcyber
  - JayLAQ
- - 
+ - SkittleKringe
+ - MrChaosTacos
+ - Stormy
+ - Lahotic
+ - Area
+ - Dubblye
+ - Celti
 
  
  
@@ -39,5 +45,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MzAyNzEzLC05NjUzOTAxNTddfQ==
+eyJoaXN0b3J5IjpbNjExODc1MDQ3LC05NjUzOTAxNTddfQ==
 -->
