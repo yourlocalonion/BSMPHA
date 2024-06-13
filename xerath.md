@@ -21,13 +21,18 @@
  - BradyCoinGuy1 (bradybeeguy)
  - OnionyOnion (yourlocalonion)
  
- *names below im not 100% sure *
+ *names below im not 100% sure of*[^1]
+ **Former**
+ 
+ - SaberSift
+
  
  
  ## Other Team Relations
  
  - to be continued
 
+[^1]: names are from XM server's #history channel 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzA4MTc5MSwtOTY1MzkwMTU3XX0=
+eyJoaXN0b3J5IjpbMTYyMzI2NTg1NywtOTY1MzkwMTU3XX0=
 -->
