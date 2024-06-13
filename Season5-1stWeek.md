@@ -1,6 +1,7 @@
 # Season 5 - 1st Week
 ## Teams
 (taken from */team leaderboard*)
+> info missing
 - meow
 - Rose
 - nothin (noteamheresmh)
@@ -16,6 +17,6 @@
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoibWVybWFpZDpcbiAgZW5hYmxlZDogdH
 J1ZVxudGl0bGU6IEJTTVBIQS1TNS0xV1xuYXV0aG9yOiBvbmlv
-blxuIiwiaGlzdG9yeSI6Wzg1MDM0ODUwLDg3OTU2ODg2LC05NT
-c2ODc5MDUsMTQ5NTk4MDU0MV19
+blxuIiwiaGlzdG9yeSI6WzY5NjcwODEwNiw4NTAzNDg1MCw4Nz
+k1Njg4NiwtOTU3Njg3OTA1LDE0OTU5ODA1NDFdfQ==
 -->
