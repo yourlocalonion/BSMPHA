@@ -24,6 +24,7 @@
 
  
  *names below im not 100% sure of*[^1]
+ 
  **Former**
  
  - SaberSift
@@ -52,5 +53,6 @@
 [^2]: not sure if it is ninja power since lukee only said "ninja"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQwNzk4NzcsLTk2NTM5MDE1N119
+eyJoaXN0b3J5IjpbMTc0ODk1NTE2OSwtMjA2NDA3OTg3NywtOT
+Y1MzkwMTU3XX0=
 -->
