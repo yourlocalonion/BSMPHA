@@ -8,7 +8,7 @@
  - LukeePooh (lukeepooh)
  - vip6D (vip.l)
  - MrDudeFaceInUse (mrdudeface)
- - 
+ - uberlord02 
  - BradyCoinGuy1 (bradybeeguy)
  - OnionyOnion (yourlocalonion)
  
@@ -19,5 +19,5 @@
  - to be continued
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM0NDQ2ODAsLTk2NTM5MDE1N119
+eyJoaXN0b3J5IjpbNDc3MTI2NSwtOTY1MzkwMTU3XX0=
 -->
